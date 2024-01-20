@@ -9,8 +9,11 @@ Financial Trading Analysis is a real-time analytics engine designed for analyzin
 To run the project locally, follow these steps:
 
 git clone https://github.com/your-username/financial-trading-analysis.git
+
 cd financial-trading-analysis
+
 python -m venv venv
+
 source venv/bin/activate 
 
 
