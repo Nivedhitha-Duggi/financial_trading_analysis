@@ -30,13 +30,22 @@ python app.py
 Visit http://localhost:5000 in your web browser to interact with the user interface.
 
 3. Project Structure
+   
 The project follows the following structure:
+
     • app/
+   
         ◦ streaming_engine.py: Implementation of the streaming engine.
+   
         ◦ query_processor.py: Logic for executing queries on streaming data.
+   
         ◦ analytics_engine.py: Integration of analytics algorithms.
+   
         ◦ user_interface/
+   
             ▪ app.py: Flask application for the user interface.
+   
             ▪ templates/: HTML templates for the user interface.
+   
     • requirements.txt: List of project dependencies.
 
