@@ -16,12 +16,11 @@ python -m venv venv
 
 source venv/bin/activate 
 
-
-# On Windows, use venv\Scripts\activate
+On Windows, use venv\Scripts\activate
 pip install -r requirements.txt
 
 
-2. Usage
+# 2. Usage
 Running the Streaming Engine
 
 cd app/user_interface
@@ -29,7 +28,7 @@ python app.py
 
 Visit http://localhost:5000 in your web browser to interact with the user interface.
 
-3. Project Structure
+# 3. Project Structure
    
 The project follows the following structure:
 
