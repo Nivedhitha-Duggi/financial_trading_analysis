@@ -1,4 +1,4 @@
-# financial_trading_analysis
+# Vectordyne
 # Financial Trading Analysis
 
 Financial Trading Analysis is a real-time analytics engine designed for analyzing streaming market data in the context of financial trading. This project utilizes Python, Flask, and various libraries for streaming data processing, B-tree-based indexing, query execution, and integration of analytics algorithms.
