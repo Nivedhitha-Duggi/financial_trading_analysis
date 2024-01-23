@@ -8,7 +8,7 @@ Financial Trading Analysis is a real-time analytics engine designed for analyzin
 
 To run the project locally, follow these steps:
 
-git clone https://github.com/your-username/financial-trading-analysis.git
+git clone https://github.com/Nivedhitha-Duggi/financial_trading_analysis.git
 
 cd financial-trading-analysis
 
